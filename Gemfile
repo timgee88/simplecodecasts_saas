@@ -34,4 +34,4 @@ gem 'spring',        group: :development
 # gem 'capistrano-rails', group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-ruby "2.3.4"
+ruby "2.5.3"
